@@ -1,0 +1,16 @@
+{
+  "name": "voting-app",
+  "version": "1.0.0",
+  "description": "simple eth voting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piternet",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.1.0",
+    "solc": "^0.4.21",
+    "web3": "^0.20.2"
+  }
+}
